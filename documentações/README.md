@@ -32,6 +32,7 @@ $$
 ### α
 
 xomo xhegamos ao α?
+
 $$
 \alpha(δ) = \arcctg{(\frac{a}{b}\tan{δ})}
 $$
@@ -39,6 +40,7 @@ $$
 ### entrada e saida
 
 sendo a entrada u(t) e a saida y(t), ele nos pede:
+
 $$
 \binom{u(t) = \theta}{y(δ) = \theta(t)}
 $$
@@ -84,6 +86,7 @@ Nessa parte vamos definir nosso mmodelo matematico;
 2 definir modelo completo
 
 temos que:
+
 $
 X(t) = 
 \begin{bmatrix} 
