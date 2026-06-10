@@ -57,10 +57,10 @@ A partir do do nosso numero de matricula geraremos os parametros a, b e v
 
 SIDS DO GRUPO:
 
-1. andré - 562391
-2. arthur carrah - 570754
+1. André - 562391
+2. Arthur carrah - 570754
 3. Arthur Melo - 566998
-4. avi - 567090
+4. Davi - 567090
 5. Gustavo - 567464
 
 Maior SID do grupo (S = 570754)
