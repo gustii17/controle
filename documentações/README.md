@@ -86,4 +86,11 @@ Nessa parte vamos definir nosso mmodelo matematico;
 2 definir modelo completo
 
 temos que:
-X(t) = $ \begin{bmatrix} x1(t)\\ x2(t)\\ \theta(t) \end{bmatrix} \\ $
+$$
+X(t) = 
+\begin{bmatrix}
+x1(t) \\
+x2(t) \\
+\theta(t)
+\end{bmatrix}
+$$
