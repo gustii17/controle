@@ -31,10 +31,10 @@ $$
 
 ### α
 
-xomo xhegamos ao α?
+como chegamos ao α?
 
 $$
-\alpha(δ) = \arcctg{(\frac{a}{b}\tan{δ})}
+\alpha(δ) = arctg{(\frac{a}{b}\tan{δ})}
 $$
 
 ### entrada e saida
