@@ -24,6 +24,7 @@ $$
 ### θ'
 
 como chegamos ao θ'?
+
 $$
 \binom{\frac{θ}{dt} = \frac{v}{b}\tan{δ}}{}
 $$
