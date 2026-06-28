@@ -24,13 +24,15 @@ $$
 ### θ'
 
 como chegamos ao θ'?
+
 $$
 \binom{\frac{θ}{dt} = \frac{v}{b}\tan{δ}}{}
 $$
 
 ### α
 
-xomo xhegamos ao α?
+como chegamos ao α?
+
 $$
 \alpha(δ) = \arcctg{(\frac{a}{b}\tan{δ})}
 $$
@@ -80,12 +82,16 @@ $$
 Nessa parte vamos definir nosso mmodelo matematico;
 
 ### 3.1
+
 2 definir modelo completo
 
 temos que:
-$
+$$
 X(t) = 
-\begin{bmatrix} 
-    x1(t)\\ x2(t)\\ \theta(t)
-\end{bmatrix} \\
-$
+\begin{bmatrix}
+x1(t) \\
+x2(t) \\
+\theta(t)
+\end{bmatrix}
+$$
+
